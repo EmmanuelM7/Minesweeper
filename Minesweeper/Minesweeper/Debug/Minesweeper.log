@@ -1,0 +1,218 @@
+﻿  Minesweeper.cpp
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(80,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(91,19): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(97,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(101,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(101,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(104,48): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(107,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(107,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(110,48): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(113,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(113,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(116,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(116,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(122,21): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(125,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(125,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(128,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(128,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(130,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(130,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(132,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(132,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(154,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(154,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(179,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(179,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(185,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(185,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(192,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(192,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(200,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(201,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(202,99): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(202,87): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(205,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(205,91): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(244,89): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(244,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(248,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(249,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(273,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(274,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(276,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(276,91): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(279,108): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(279,96): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(308,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(309,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(317,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(318,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(349,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emman\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(350,35): warning C4018: '<': signed/unsigned mismatch
+  Minesweeper.vcxproj -> C:\Users\emman\source\repos\Minesweeper\Debug\Minesweeper.exe

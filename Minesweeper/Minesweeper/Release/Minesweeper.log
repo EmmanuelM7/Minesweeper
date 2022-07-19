@@ -1,0 +1,7 @@
+﻿  Minesweeper.cpp
+  TextureManager.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 273 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Minesweeper.vcxproj -> C:\Users\emman\source\repos\Minesweeper\Release\Minesweeper.exe
